@@ -6,6 +6,7 @@ import java.util.Date;
 /**
  * Created by Tom on 5/1/2016.
  */
+//patients
 public class PATIENT {
     String last_name;
     String first_name;
